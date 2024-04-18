@@ -1,0 +1,15 @@
+
+{
+    "model_name" : "SAM",
+    "model_type" : "vit_h",
+    
+    "dataset": "fetalhead",
+  
+
+    "data_path": "/mnt/storage/fangyijie/HC18/",
+
+    "sam_ckpt": "/mnt/storage/fangyijie/sam_models/sam_vit_h_4b8939.pth",
+
+    "clip_prompts": "/home/fangyijie/sam_wip/segment-anything/clip_prompts/fetalhead.json"
+
+}

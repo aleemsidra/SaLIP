@@ -1,0 +1,10 @@
+
+{
+    "Brain": 
+
+    ["Identify and describe images containing brains.",
+    "A brain is the central organ of the nervous system, typically located within the head.",
+    "Assign higher relevance to images prominently featuring brains over other anatomical structures like heads or skulls.",
+    "Prioritize images showcasing the brain's structure or activity, while minimizing relevance to general head-related imagery."]
+
+}

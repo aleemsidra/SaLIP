@@ -1,0 +1,17 @@
+{
+    "model_name" : "SAM",
+    "model_type" : "vit_h",
+    
+    
+    "dataset" : "CC359",
+  
+    "source":    "False", 
+    "refine" : "False",
+    "pre_trained": "True", 
+
+    "data_path": "/home/sidra/Documents/Domain_Apatation/UDAS/src/Data/CC359/Reconstructed/",
+    
+    "sam_ckpt":  "/home/sidra/Documents/segment-anything/sam_vit_h_4b8939.pth", 
+    "clip_prompts": "/home/sidra/Documents/SaLIP/clip_prompts/brain_seg.json"
+    
+}

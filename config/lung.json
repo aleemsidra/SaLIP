@@ -1,0 +1,18 @@
+
+{
+    "model_name" : "SAM",
+    "model_type" : "vit_h",
+    
+    "dataset": "cxr",
+  
+    "encoder_input_size": 1024,
+
+    "data_path": "/home/sidra/Downloads/archive/Lung Segmentation/CXR_png",
+
+    "sam_ckpt": "/home/sidra/Documents/segment-anything/sam_vit_h_4b8939.pth",
+
+    "clip_prompts": "/home/sidra/Documents/segment-anything/clip_prompts/lungs.json"
+
+
+}
+
